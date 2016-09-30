@@ -11,6 +11,8 @@ namespace DemoGitVS
         static void Main(string[] args)
         {
             //project can chia se ma nguon lam viec nhom
+            //project da duoc upload len git,vao git de kiem tra
+            //nhap them code
         }
     }
 }
